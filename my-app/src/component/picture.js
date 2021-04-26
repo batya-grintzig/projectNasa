@@ -74,6 +74,7 @@ export default compose(withRouter, connect(mapStateToProps, mapDispatchToProps))
                                 <iframe className="d-flex justify-content-center" style={{ height: '300px' }}  title="" src={picture.url} ></iframe>
                             )}
                     </div>
+                    {/* ???????????????????????????????????????? */}
                 </div>
                 <br />
                 <div className="col-12">
